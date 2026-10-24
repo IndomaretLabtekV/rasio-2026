@@ -1,0 +1,16 @@
+# Environment
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Competition data (download from Kaggle)
+data/
+*.zip
+
+# Model artifacts
+catboost_info/
+
+# Local tooling
+.claude/
+.codex/
+.opencode/
